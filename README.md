@@ -10,9 +10,7 @@
   <b>Statistics Student • Data Analytics • Machine Learning</b>
 </p>
 
-<p align="center">
-  Transforming data into meaningful insights through analytics, machine learning, and cloud technologies.
-</p>
+  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolestv">
