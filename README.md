@@ -22,14 +22,10 @@
 
 ## 👩‍💻 About Me
 
-I’m a Statistics student passionate about transforming data into meaningful insights through analytics, machine learning, and cloud technologies.
+I'm a Statistics student passionate about turning data into actionable insights through analytics, machine learning, and cloud technologies. I enjoy solving real-world problems by combining statistical methods with modern data tools to support data-driven decision-making.
 
-My interests are focused on data analytics and problem-solving, where I combine statistical knowledge and technology to extract valuable insights and support data-driven decisions.
+My portfolio showcases projects in data analytics, predictive modeling, ETL, dashboards, and cloud data platforms using Python, SQL, Power BI, Databricks, Azure, and GCP, reflecting practical experience across the end-to-end data lifecycle.
 
-I have experience working with data analysis, visualization, predictive modeling, and ETL processes. I enjoy building dashboards, designing data models, creating automated workflows, and applying statistical and machine learning techniques to solve real-world challenges.
-
-I work with technologies such as SQL, Python, Power BI, Databricks, Azure, GCP, and Excel to analyze, process, and visualize data. My projects include financial analysis dashboards, credit risk prediction models, and cloud-based data platforms following modern data architecture practices.
-I’m continuously learning and expanding my skills in artificial intelligence, data engineering, and cloud computing, with the goal of developing scalable, efficient, and impactful data solutions.
 
 ---
 
